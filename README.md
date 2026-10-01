@@ -22,10 +22,10 @@ Pemrograman-Fungsional/
 
 ## 📖 Daftar Modul
 
-| Modul | Topik | Materi |
-|-------|-------|--------|
-| [Modul 0](./modul_0/) | Python Notebook Guide | Panduan instalasi, environment, dan Jupyter Notebook |
-| [Modul 1](./modul_1/) | Pemrograman Fungsional Menggunakan Python | Konsep dasar paradigma fungsional, variabel, dan tipe data |
+| Modul | Topik | Materi / File |
+|-------|-------|---------------|
+| [Modul 0](./modul_0/) | Python Notebook Guide | • `Modul 0 - Python Notebook Guide.pdf` |
+| [Modul 1](./modul_1/) | Pemrograman Fungsional Menggunakan Python | • `Modul 1 - Pemrograman Fungsional Menggunakan Python.pdf`<br>• `MODULE-1-CODE-ANALYSIST-REPORT.pdf`<br>• `Modul_1_Exercises.ipynb` |
 | [Modul 2](./modul_2/) | - | - |
 | [Modul 3](./modul_3/) | - | - |
 | [Modul 4](./modul_4/) | - | - |
