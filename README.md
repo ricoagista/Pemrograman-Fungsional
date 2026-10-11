@@ -25,7 +25,7 @@ Pemrograman-Fungsional/
 | Modul | Topik | Materi / File |
 |-------|-------|---------------|
 | [Modul 0](./modul_0/) | Python Notebook Guide | • `Modul 0 - Python Notebook Guide.pdf` |
-| [Modul 1](./modul_1/) | Pemrograman Fungsional Menggunakan Python | • `Modul 1 - Pemrograman Fungsional Menggunakan Python.pdf`<br>• `MODULE-1-CODE-ANALYSIST-REPORT.pdf`<br>• `Modul_1_Exercises.ipynb` |
+| [Modul 1](./modul_1/) | Pemrograman Fungsional Menggunakan Python | • `Modul 1 - Pemrograman Fungsional Menggunakan Python.pdf`<br>• [`Assignment/`](./modul_1/Assignment/) (`Assignment_1`, `Assignment_2`)<br>• [`Exercise/`](./modul_1/Exercise/) (`Modul_1_Exercises.ipynb`, `MODULE-1-CODE-ANALYSIST-REPORT.pdf`) |
 | [Modul 2](./modul_2/) | - | - |
 | [Modul 3](./modul_3/) | - | - |
 | [Modul 4](./modul_4/) | - | - |

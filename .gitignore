@@ -1,3 +1,7 @@
 # File sistem
 desktop.ini
 Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
