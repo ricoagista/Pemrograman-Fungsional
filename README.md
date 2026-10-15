@@ -26,7 +26,7 @@ Pemrograman-Fungsional/
 |-------|-------|---------------|
 | [Modul 0](./modul_0/) | Python Notebook Guide | • `Modul 0 - Python Notebook Guide.pdf` |
 | [Modul 1](./modul_1/) | Pemrograman Fungsional Menggunakan Python | • `Modul 1 - Pemrograman Fungsional Menggunakan Python.pdf`<br>• [`Assignment/`](./modul_1/Assignment/) (`Assignment_1`, `Assignment_2`)<br>• [`Exercise/`](./modul_1/Exercise/) (`Modul_1_Exercises.ipynb`, `MODULE-1-CODE-ANALYSIST-REPORT.pdf`) |
-| [Modul 2](./modul_2/) | - | - |
+| [Modul 2](./modul_2/) | Effect-free Programming and Declarative Paradigm | • `Modul 2 - Effect-free Programming and Declarative Paradigm.pdf`<br>• [`Exercise/`](./modul_2/Exercise/) (`Modul2_Exercise.ipynb`, `MODULE 2-CODE ANALYSIST REPORT.pdf`) |
 | [Modul 3](./modul_3/) | - | - |
 | [Modul 4](./modul_4/) | - | - |
 | [Modul 5](./modul_5/) | - | - |
